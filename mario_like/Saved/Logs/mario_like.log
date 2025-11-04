@@ -915,3 +915,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.04-14.47.17:243][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components because of a recursive sync load
 [2025.11.04-14.47.17:245][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultPostProcessMaterial because of a recursive sync load
 [2025.11.04-14.47.17:245][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.11.04-14.47.52:613][  0]LogShaderCompilers: Display: Job FRayTracingSkyLightRGS(permutation 14, format PCD3D_SM6) compile time exceeded threshold (30.849s)
+[2025.11.04-14.47.53:031][  0]LogShaderCompilers: Display: Job FRayTracingSkyLightRGS(permutation 0, format PCD3D_SM6) compile time exceeded threshold (31.109s)
+[2025.11.04-14.47.53:342][  0]LogShaderCompilers: Display: Job FRayTracingSkyLightRGS(permutation 11, format PCD3D_SM6) compile time exceeded threshold (31.664s)
+[2025.11.04-14.47.53:991][  0]LogShaderCompilers: Display: Job FRayTracingSkyLightRGS(permutation 2, format PCD3D_SM6) compile time exceeded threshold (30.704s)
+[2025.11.04-14.47.54:684][  0]LogShaderCompilers: Display: Job FRayTracingSkyLightRGS(permutation 4, format PCD3D_SM6) compile time exceeded threshold (31.901s)
+[2025.11.04-14.47.54:684][  0]LogShaderCompilers: Display: Job FRayTracingSkyLightRGS(permutation 10, format PCD3D_SM6) compile time exceeded threshold (32.185s)
+[2025.11.04-14.47.55:300][  0]LogShaderCompilers: Display: Job FRayTracingSkyLightRGS(permutation 9, format PCD3D_SM6) compile time exceeded threshold (35.230s)
+[2025.11.04-14.47.55:508][  0]LogShaderCompilers: Display: Job FRayTracingSkyLightRGS(permutation 6, format PCD3D_SM6) compile time exceeded threshold (35.458s)
