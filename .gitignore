@@ -1,0 +1,53 @@
+# Visual Studio files
+.vs/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Visual Studio Code
+.vscode/
+
+# Unreal Engine cache and intermediate files
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Binaries
+Binaries/
+Build/
+
+# Plugin intermediate files
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# Cache files
+*.pdb
+*.opensdf
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.cachefile
+*.log
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+
+# Starter Content (uncomment if you don't want to track it)
+# Content/StarterContent/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
