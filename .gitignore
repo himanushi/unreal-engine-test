@@ -43,14 +43,11 @@ Plugins/*/Binaries/
 # Executables
 *.exe
 
-# Starter Content (uncomment if you don't want to track it)
-# Content/StarterContent/
+# Starter Content (heavy files - 600MB+)
+**/Content/StarterContent/
 
 # macOS
 .DS_Store
 
 # Windows
 Thumbs.db
-
-*.uasset
-*.umap
