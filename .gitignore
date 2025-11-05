@@ -51,3 +51,6 @@ Plugins/*/Binaries/
 
 # Windows
 Thumbs.db
+
+*.uasset
+*.umap
